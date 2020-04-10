@@ -4,7 +4,7 @@
 
 ### 安装手册
 
-步骤1：执行命令1:【wget https://www.srun.com/static/download/Srun-ldap.bin】
+步骤1：执行命令1:【wget https://www.srun.com/static/download/Srun-LDAP.bin】
 
 步骤2：执行命令2:【chmod +x Srun-LDAP.bin】
 
@@ -14,7 +14,7 @@
 
 ### 附录
 
-[Srun-LDAP安装包下载](https://www.srun.com/static/download/Srun-ldap.bin)
+[Srun-LDAP安装包下载](https://www.srun.com/static/download/Srun-LDAP.bin)
 
 MD5:e93ecee8377fb2c3e29d663e1dbb67ec
 

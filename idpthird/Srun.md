@@ -13,12 +13,15 @@
 步骤4：输入y，完成安装启动
 
 ### 附录
+
+[Srun-LDAP安装包下载](https://www.srun.com/static/download/Srun-ldap.bin)
+
 MD5:e93ecee8377fb2c3e29d663e1dbb67ec
 
 LDAP Configure Path: /srun3/etc/srun-ldap.conf
 
 Service Restart Command: /srun3/bin/server_ldap restart
 
-[下载深澜LDAP模块安装包Srun-LDAP.bin](https://www.srun.com/static/download/Srun-ldap.bin)
+
 
 

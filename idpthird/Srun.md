@@ -4,15 +4,13 @@
 
 ### 安装手册
 
-步骤1：[下载深澜LDAP模块安装包Srun-LDAP.bin](https://www.srun.com/static/download/Srun-ldap.bin)
+步骤1：执行命令1:【wget https://www.srun.com/static/download/Srun-ldap.bin】
 
-步骤2：上传安装包到深澜服务器
+步骤2：执行命令2:【chmod +x Srun-LDAP.bin】
 
-步骤3：执行命令1:【chmod +x Srun-LDAP.bin】
+步骤3：执行命令3:【./Srun-LDAP.bin】
 
-步骤4：执行命令2:【./Srun-LDAP.bin】
-
-步骤5：输入y，完成安装启动
+步骤4：输入y，完成安装启动
 
 ### 附录
 MD5:e93ecee8377fb2c3e29d663e1dbb67ec
@@ -20,5 +18,7 @@ MD5:e93ecee8377fb2c3e29d663e1dbb67ec
 LDAP Configure Path: /srun3/etc/srun-ldap.conf
 
 Service Restart Command: /srun3/bin/server_ldap restart
+
+[下载深澜LDAP模块安装包Srun-LDAP.bin](https://www.srun.com/static/download/Srun-ldap.bin)
 
 
